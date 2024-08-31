@@ -19,26 +19,10 @@ Graph Neural Networks (GNNs) are utilized here for their ability to model comple
 - Transforming connectivity matrices into graph structures.
 - Visualizing these graphs to interpret brain network patterns.
 
- ![output](https://github.com/user-attachments/assets/8fa99f32-26cd-48c8-b95b-d689617ba061)
-
-
 
 ## Installation
 
 To run the code, you'll need Python and the following libraries:
-
-- numpy
-- pandas
-- networkx
-- seaborn
-- matplotlib
-- plotly
-- nilearn
-- torch
-- torch_geometric
-
-You can install these dependencies using pip:
-
 ```bash
 pip install numpy pandas networkx seaborn matplotlib plotly nilearn torch torch_geometric
 ```
@@ -109,3 +93,6 @@ The next steps involve integrating this graph structure into a GNN model, potent
 ---
 
 This README provides an overview of the workflow, key steps in data processing, and instructions for replicating the analysis.
+
+![output](https://github.com/user-attachments/assets/45e9f127-94a8-434b-bb9a-052ed45c7a92)
+

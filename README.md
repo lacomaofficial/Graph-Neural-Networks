@@ -19,7 +19,8 @@ Graph Neural Networks (GNNs) are utilized here for their ability to model comple
 - Transforming connectivity matrices into graph structures.
 - Visualizing these graphs to interpret brain network patterns.
 
-  ![image](https://github.com/user-attachments/assets/8472bc53-ba06-428b-9dab-e5b3c3cee4cc)
+ ![output](https://github.com/user-attachments/assets/8fa99f32-26cd-48c8-b95b-d689617ba061)
+
 
 
 ## Installation

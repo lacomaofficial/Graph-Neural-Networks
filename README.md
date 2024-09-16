@@ -85,14 +85,6 @@ visualize_graph = brain_graph_Yeo17(mean_adult_graph, difumo_labels, color_map=N
 
 The next steps involve integrating this graph structure into a GNN model, potentially using PyTorch Geometric, to predict outcomes or classify subjects based on their connectivity patterns.
 
-## References
-
-- DiFuMo Atlases: https://nilearn.github.io
-- Yeo's 17 Network Parcellation: https://sites.google.com/site/braintopographynetworks
-
----
-
-This README provides an overview of the workflow, key steps in data processing, and instructions for replicating the analysis.
 
 ![output](https://github.com/user-attachments/assets/45e9f127-94a8-434b-bb9a-052ed45c7a92)
 
